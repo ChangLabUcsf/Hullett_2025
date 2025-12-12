@@ -7,7 +7,9 @@ Setup:
     
     Extract Hullett_2025_Source_Code.zip to some directory.
     Download and extract source_data.zip to  */Hullett_2025_code.
-    source_data.zip is available at from: http://datadryad.org/share/LINK_NOT_FOR_PUBLICATION/NdvQqebjeFc3a_5ZnqA5qk5De_6emMSvxh3ur_oS3FY
+    source_data.zip is available from: https://doi.org/10.5061/dryad.x95x69pzh (once published)
+    source_data.zip is temporarily available from http://datadryad.org/share/LINK_NOT_FOR_PUBLICATION/NdvQqebjeFc3a_5ZnqA5qk5De_6emMSvxh3ur_oS3FY (before publication)
+                                        
 
     Datat file names within */source_data are:
     
